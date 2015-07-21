@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\bin\Release\Server.exe.config
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\bin\Release\Server.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\bin\Release\Server.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\obj\Release\Server.Form1.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\obj\Release\Server.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\obj\Release\Server.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312467_1312444\Source\Server\Server\bin\Release\Server.exe.config
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312467_1312444\Source\Server\Server\obj\Release\Server.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312467_1312444\Source\Server\Server\obj\Release\Server.pdb

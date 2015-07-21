@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\bin\Release\Client.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\bin\Release\Client.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.mainForm.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.MainMenu.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.Play.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312467_1312444\Source\Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312467_1312444\Source\Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312467_1312444\Source\Client\Client\obj\Release\Client.pdb
+C:\Users\Administrator\Desktop\1312467_1312444\Source\Client\Client\bin\Release\Client.exe.config
+C:\Users\Administrator\Desktop\1312467_1312444\Source\Client\Client\obj\Release\Client.exe
+C:\Users\Administrator\Desktop\1312467_1312444\Source\Client\Client\obj\Release\Client.pdb

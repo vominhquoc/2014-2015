@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Debug\Client.mainForm.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Debug\Client.MainMenu.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Debug\Client.Play.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Debug\Client.exe
+C:\Users\Administrator\Documents\visual studio 2012\Projects\1312444_1312467\Client\obj\Debug\Client.pdb
