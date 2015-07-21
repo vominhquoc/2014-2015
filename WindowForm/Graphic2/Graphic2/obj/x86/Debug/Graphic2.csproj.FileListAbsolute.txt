@@ -1,0 +1,16 @@
+C:\Users\SonPham\Documents\Visual Studio 2010\Projects\Graphic2\Graphic2\bin\Debug\Graphic2.exe
+C:\Users\SonPham\Documents\Visual Studio 2010\Projects\Graphic2\Graphic2\bin\Debug\Graphic2.pdb
+C:\Users\SonPham\Documents\Visual Studio 2010\Projects\Graphic2\Graphic2\obj\x86\Debug\Do_Hoa_May_Tinh.Form1.resources
+C:\Users\SonPham\Documents\Visual Studio 2010\Projects\Graphic2\Graphic2\obj\x86\Debug\Graphic2.Properties.Resources.resources
+C:\Users\SonPham\Documents\Visual Studio 2010\Projects\Graphic2\Graphic2\obj\x86\Debug\Graphic2.csproj.GenerateResource.Cache
+C:\Users\SonPham\Documents\Visual Studio 2010\Projects\Graphic2\Graphic2\obj\x86\Debug\Graphic2.exe
+C:\Users\SonPham\Documents\Visual Studio 2010\Projects\Graphic2\Graphic2\obj\x86\Debug\Graphic2.pdb
+C:\Users\SonPham\documents\visual studio 2010\Projects\Graphic2\Graphic2\obj\x86\Debug\Graphic2.csprojResolveAssemblyReference.cache
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\obj\x86\Debug\Graphic2.exe
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\obj\x86\Debug\Graphic2.pdb
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\bin\Debug\Graphic2.exe
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\bin\Debug\Graphic2.pdb
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\obj\x86\Debug\Graphic2.csprojResolveAssemblyReference.cache
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\obj\x86\Debug\Do_Hoa_May_Tinh.Form1.resources
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\obj\x86\Debug\Graphic2.Properties.Resources.resources
+C:\Users\SonPham\Downloads\Graphic2\Graphic2\obj\x86\Debug\Graphic2.csproj.GenerateResource.Cache
